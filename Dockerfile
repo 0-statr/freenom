@@ -1,7 +1,5 @@
 FROM php:7.4.19-alpine3.13
 
-LABEL author="mybsdc <mybsdc@gmail.com>" \
-    maintainer="luolongfei <luolongf@gmail.com>"
 
 ENV TZ Asia/Shanghai
 
